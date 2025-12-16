@@ -1,2 +1,12 @@
-# university-labs
-Collection of university lab exercises and practical projects completed during my undergraduate studies in software engineering. Includes coding assignments, data structures, OOP, database, and OS labs, shared for learning and reference purposes.
+# Software Engineering Practicals
+
+This repository contains practical exercises and lab work completed during my Software Engineering undergraduate program.
+
+## Modules Covered
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Systems
+- Operating Systems
+
+📌 All work is my own and shared for educational purposes.
+
